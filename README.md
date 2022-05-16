@@ -1,2 +1,2 @@
-# homework2
-sw homework2 
+# 20184444 오픈소스 sw 개론 과제
+
