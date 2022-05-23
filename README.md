@@ -95,6 +95,16 @@
   - 어려운 매크로를 만들 경우 매크로 파일로 저장하여 재사용이 가능하다..
   - ~/.vimec 파일을 열고 let @?='ctrl+r ctrl+r <명렁어들>' 를 적을 경우 ?매크로 이름으로 '명령어들'을 실행할 수 있다.
 
-  'qqi'
+실행 예시
+
+![1](https://user-images.githubusercontent.com/44859978/169829764-b97c4729-8107-4b07-8261-dbd19cf99996.png)
+
+  `qqd0igoodbye q`
+ `2G@q1G@@`
+ 
+![3](https://user-images.githubusercontent.com/44859978/169829639-b0f36bc6-e968-4fed-969a-b51c972561e9.png)
+
+
 
 ---
+
